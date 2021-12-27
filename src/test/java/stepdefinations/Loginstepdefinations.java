@@ -15,10 +15,12 @@ public class Loginstepdefinations {
 
 
 
-    @When("user gets the title of the page")
-    public void user_gets_the_title_of_the_page() {
+//    @When("user gets the title of the page")
+//    public void user_gets_the_title_of_the_page() {
+//
+//    }
 
-    }
+
 
 
 
